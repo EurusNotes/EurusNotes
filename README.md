@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eurus Liu, a Data Science Student.
+- 👋 Hi, I’m Chenxi, a Data Science Student.
 - 👀 I’m interested in NLP, CV, DL.
 - 🌱 I’m currently learning NLP, DL
 
