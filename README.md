@@ -1,9 +1,8 @@
-# Hi there, I'm Leslie (Chenxi) Liu 👋
-
+# Hi there, I'm Leslie
 **AI Engineer | Data Scientist**
 📍 Sydney, Australia
 
-I am an AI Engineer and Data Scientist with a strong focus on machine learning, natural language processing, and data-driven solutions. I hold a Master of Information Technology from the University of New South Wales (UNSW) and a Bachelor of Culture and Information Science from Doshisha University. I am passionate about building intelligent applications, fine-tuning LLMs, and extracting actionable insights from complex datasets.
+I am an AI Engineer and Data Scientist with a strong focus on machine learning, natural language processing, and data-driven solutions. I hold a Master of Information Technology from the University of New South Wales (UNSW). I am passionate about building intelligent applications, fine-tuning LLMs, and extracting actionable insights from complex datasets.
 
 ### 🛠 Tech Stack
 * **Languages:** Python, SQL, R
